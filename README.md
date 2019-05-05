@@ -12,6 +12,6 @@
 ![comp2](http://frontend.turing.io/assets/images/projects/zen-garden/zen-garden-02.jpg)
 
 ## My replicas 
-![Noah comp1](../images/noah-comp1.png)
+![noah-comp1](https://user-images.githubusercontent.com/49107377/57201442-23342000-6f56-11e9-866d-ef0a6d339410.png)
 
-![Noah comp2](../images/noah-com2.png)
+![noah-com2](https://user-images.githubusercontent.com/49107377/57201441-23342000-6f56-11e9-977a-acae0ebd0794.png)
